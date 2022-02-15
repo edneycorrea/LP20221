@@ -1,1 +1,2 @@
 texto do teste2.txt
+texto do teste3.tex
